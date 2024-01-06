@@ -106,7 +106,10 @@ margin-bottom: 0px;
 
 
 /*main section styles*/
-
+main{
+    max-width: 1300px;
+    margin: 0 auto;
+}
 
 
 
@@ -118,3 +121,24 @@ margin-bottom: 0px;
     margin: 130px;
 }
 
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.about-inf{
+    text-align: center;
+}
+.info-title{
+    color:#757575;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+}
+
+.info-description{
+    color:  #474747;
+    font-size: 16px;
+    font-weight: 750;
+    margin: 0;
+}
