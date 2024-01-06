@@ -142,3 +142,14 @@ main{
     font-weight: 750;
     margin: 0;
 }
+
+
+
+/*skill related styles*/
+#what-i-do{
+    padding: 30px 30px 200px;
+}
+
+.skills-container{
+    display: flex;
+}
